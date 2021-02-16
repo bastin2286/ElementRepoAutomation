@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="DBInsert">
+  <test thread-count="5" name="DBInsert">
+ 	 <classes>
+      <class name="DbInsert"/>
+    </classes>
+  </test> <!-- DbInsert -->
+</suite> <!-- DbInsert -->
