@@ -1,3 +1,3 @@
 # ElementRepoAutomation
 This repository conatins the code to insert the JSON data into MongoDB
-Testing the trigger from git to Jenkins job
+Triggering Jenkins job
