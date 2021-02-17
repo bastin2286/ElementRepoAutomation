@@ -1,1 +1,1 @@
-{"version":1,"LoginScreen":{"Button":{"Text":"ok","enabled":"true","e14":"us.drpad.drpadapp:id/lv_patient"}}}
+{"version":1,"LoginScreen":{"Button":{"Text":"ok","enabled":"true","e14":"us.drpad.drpadapp:id/lv_patient","e15":"us.drpad.drpadapp:id/imgAddPatient","e16":"us.drpad.drpadapp:id/edt_first_name","e17":"us.drpad.drpadapp:id/edt_lastname","e18":"us.drpad.drpadapp:id/btn_cancel",}}}
